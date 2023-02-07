@@ -1,4 +1,5 @@
 #!/bin/bash
+conflict
 <<<<<<< HEAD
 echo "ALX School"
 =======
