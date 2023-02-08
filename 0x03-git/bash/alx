@@ -1,7 +1,2 @@
 #!/bin/bash
-conflict
-<<<<<<< HEAD
-echo "ALX School"
-=======
 echo "ALX School is so cool!"
->>>>>>> b696bdac23fd8586e8c44505f623e1457934833c
